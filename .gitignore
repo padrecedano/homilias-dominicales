@@ -1,0 +1,4 @@
+#ignore all kind of files
+*
+#except tex files
+!*.tex
