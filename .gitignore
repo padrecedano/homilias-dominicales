@@ -2,4 +2,4 @@
 *
 #except tex files
 !*.tex
-!ciclo-A/
+!/ciclo-A
