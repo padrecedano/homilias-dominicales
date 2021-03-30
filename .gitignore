@@ -2,4 +2,7 @@
 *
 #except tex files
 !*.tex
-!/ciclo-A
+# But descend into directories
+!*/
+# Recursively allow files under subtree
+!/ciclo-A/**
