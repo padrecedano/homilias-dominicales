@@ -1,0 +1,78 @@
+% !TeX program = lualatex
+%\documentclass[10pt,twoside,openany,showtrims,titlepage]{memoir}
+\newcommand\theAuthor{Alfertson Cedano Guerrero }
+\newcommand\titleA{Homilías Dominicales (B) *Documento Provisional*}
+\newcommand\titleB{Cuaresma - Triduo Pascual}
+\newcommand\theKeywords{Homilías\sep Liturgia\sep Cristianismo\sep Iglesia Católica}
+\newcommand\theSubject{Esta obra recoge las homilías dominicales de los últimos papas. Contiene además las lecturas bíblicas según el nuevo Leccionario de la Misa, Comentarios Patrísticos a los Evangelios y los Temas del Catecismo de la Iglesia Católica sugeridos por el Directorio Homilético}
+\newcommand\theOrg{www.deiverbum.org}
+\newcommand\isCopyrighted{FALSE}
+\newcommand\thePublicationType{Book}
+\newcommand\theVolume{2}
+\newcommand\thePublisher{deiverbum.org}
+\newcommand\theYear{2021}
+\newcommand\volume{Volumen 2}
+\newcommand\subTitle{Textos bíblicos del nuevo Leccionario de la Misa, \\Comentarios Patrísticos a los Evangelios \\y Temas del Directorio Homilético}
+
+\RequirePackage{filecontents} %if filecontents should overwrite old files
+
+\begin{filecontents}{\jobname.xmpdata}
+\pdfxSetCMYKcolorProfileDir{/icc/}
+%\setCMYKcolorprofile{ISOcoated_v2_300_eci.icc}
+{ISOcoated_v2_300_eci.icc}
+{http://www.color.org/}	
+	\Title{\titleA \titleB}
+	\Author{\theAuthor}
+	\Volume{\theVolume}
+	\Subject{\theSubject}
+	\Keywords{\theKeywords}	
+	\Org{\theOrg}
+	\Copyrighted{\isCopyrighted}
+	\PublicationType{\thePublicationType}
+\end{filecontents}
+
+\input{../../main-template}	
+
+\begin{document}
+	
+	%\frontmatter
+	%\pagestyle{empty}
+	%\aliaspagestyle{chapter}{empty}
+	%\input{a1-001Previo}	
+	\mainmatter
+	
+	\label{files}
+	%\input{a1-notes}
+	%~
+	\input{p01-chapter01}
+	
+	%\input{b2-c-01-Jueves}
+	%\input{b2-c-02-Viernes}	
+	%\input{b2-c-03-Sabado}
+	%\input{b2-c-04-Domingo}
+	%\input{b2-d-00-Final}		
+	%\input{b2-a-00-IntroGeneral}  
+	%\input{b2-b-00-Intro}  %Cuaresma		
+	%\input{b2-b-01-Semana}
+	%\input{b2-b-02-Semana}	
+	%\input{b2-b-03-Semana}
+	
+	\iffalse
+	
+	\input{b2-a-00-IntroGeneral}  
+	\input{b2-b-00-Intro}  %Cuaresma		
+	\input{b2-b-01-Semana}
+	\input{b2-b-02-Semana}	
+	\input{b2-b-03-Semana}
+	\input{b2-b-04-Semana}
+	\input{b2-b-05-Semana}
+	\input{b2-b-06-Semana}		
+	\input{b2-c-00-Intro}   %Triduo	
+	\input{b2-c-01-Jueves}
+	\input{b2-c-02-Viernes}
+	\input{b2-c-03-Sabado}
+	\input{b2-c-04-Domingo}
+	\input{b2-d-00-Final}	
+	\fi 
+	
+\end{document}
