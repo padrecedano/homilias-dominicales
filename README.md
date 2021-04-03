@@ -38,10 +38,11 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 ***
 #### 🟣 DOMINGO I DE ADVIENTO
 
-##### COMENTARIO PATRÍSTICO
+##### :old_key: COMENTARIO PATRÍSTICO
    * **Pascasio Radberto**, Exposición sobre el evangelio de san Mateo, Lib. 11, cap. 24: PL 120, 799-800.
 
-##### HOMILÍAS
+##### :scroll: HOMILÍAS (15)
+
 
 |Juan XXIII|Pablo VI|Juan Pablo II|Benedicto XVI|Francisco|
 | :---: |     :---:      |  :---:  | :---: | :---: |
@@ -54,7 +55,23 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 | - | - | 1998-11-29 H.es | - | - |
 | - | - | 2001-12-02 A.es | - | - |
 
+***
+
+#### 🟣 DOMINGO II DE ADVIENTO
+
+##### :old_key: COMENTARIO PATRÍSTICO
+   * **San Agustín**, Sermón 109, 1: PL 38, 636.
+
+##### :scroll: HOMILÍAS (09)
 
 
+|Juan XXIII|Pablo VI|Juan Pablo II|Benedicto XVI|Francisco|
+| :---: |     :---:      |  :---:  | :---: | :---: |
+| - | - | 1980-12-07 H.es | 2007-12-09 A.es | 2016-12-04 A.es |
+| - | - | 1983-12-04 H.it | 2010-12-05 A.es | - |
+| - | - | 1986-12-07 H.it | - | - |
+| - | - | 1989-12-10 H.it | - | - |
+| - | - | 1992-12-06 H.it | - | - |
+| - | - | 1998-12-06 H.es | - | - |
 
 **Esta tabla seguirá completándose**
