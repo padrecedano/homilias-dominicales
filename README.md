@@ -74,4 +74,29 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 | - | - | `1992-12-06 H.it` | - | - |
 | - | - | `1998-12-06 H.es` | - | - |
 
+
+***
+#### 🟣 DOMINGO III DE ADVIENTO
+
+##### :old_key: COMENTARIO PATRÍSTICO
+   * **San Ambrosio**, Comentario sobre el evangelio de san Lucas, Lib. 5, 93-95. 99-102. 109: CCL 14, 165-166. 167-168. 171-177.
+
+##### :scroll: HOMILÍAS (16)
+
+
+|Juan XXIII|Pablo VI|Juan Pablo II|Benedicto XVI|Francisco|
+| :---: |     :---:      |  :---:  | :---: | :---: |
+| - | - | `1980-12-14 H.es` | `2007-12-16 H.es` | `2013-12-15 A.es` |
+| - | - | `1983-12-11 H.it` | `2007-12-16 A.es` | `2016-12-11 A.es` |
+| - | - | `1986-12-14 H.it` | `2010-12-12 H.es` | `2019-12-15 H.es` |
+| - | - | `1989-12-17 H.it` | `2010-12-12 A.es` | `2019-12-15 A.es` |
+| - | - | `1992-12-13 H.it` | - | - |
+| - | - | `1995-12-17 H.it` | - | - |
+| - | - | `1998-11-13 H.es` | - | - |
+| - | - | `2001-12-16 H.es` | - | - |
+
+
+***
+
+
 **Esta tabla seguirá completándose**
