@@ -36,7 +36,7 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 ***
 ### Volumen 1: Adviento-Navidad
 ***
-#### <span style="color:red">DOMINGO I DE ADVIENTO</span>
+#### <font color="red">DOMINGO I DE ADVIENTO</font>
 
 ##### COMENTARIO PATRÍSTICO
    * **Pascasio Radberto**, Exposición sobre el evangelio de san Mateo, Lib. 11, cap. 24: PL 120, 799-800.
