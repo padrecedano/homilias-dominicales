@@ -22,12 +22,13 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 
 ***
   - **`H.es`** : Homilía originalmente en castellano
-  - **`H.it`** : Homilía originalmente en italiano traducida al castellano
-  - **`A`** : Ángelus o Regina Caeli
+  - **`H.it`** : Homilía originalmente en italiano y traducida al castellano
+  - **`A.es`** : Ángelus o Regina Caeli originalmente en castellano
+  - **`A.it`** : Ángelus o Regina Caeli originalmente en italiano y traducido al castellano
   - **`C`** : Catequesis (generalmente en la Audiencia General de los miércoles)
   - **`M`** : Mensaje
-  - **`UO`** : Mensaje Urbi et Orbi (que el Papa suele hacer los días de Navidad y Pascua)
-  
+  - **`UO.es`** : Mensaje Urbi et Orbi (que el Papa suele hacer los días de Navidad y Pascua) originalmente en castellano
+  - **`UO.it`** : Mensaje Urbi et Orbi originalmente en italiano y traducido castellano
   
 
 
@@ -48,6 +49,12 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 | - | - | 1983-11-27 H.it | 2007-12-02 A.es | 2013-12-01 A.es |
 | - | - | 1986-11-30 H.it | 2010-11-28 A.es | 2016-11-27 A.es |
 | - | - | 1989-12-03 H.it | - | 2019-12-01 A.es |
+| - | - | 1992-11-29 H.it | - | - |
+| - | - | 1995-12-03 H.it | - | - |
+| - | - | 1998-11-29 H.es | - | - |
+| - | - | 2001-12-02 A.es | - | - |
+
+
 
 
 **Esta tabla seguirá completándose**
