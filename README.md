@@ -44,9 +44,10 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 
 |Juan XXIII|Pablo VI|Juan Pablo II|Benedicto XVI|Francisco|
 | :---: |     :---:      |  :---:  | :---: | :---: |
-| 1977   | -     | -    |
-| 1980-11-30     | 1980-11-30       | 1980-11-30      | -
-| 1983 | | |
-| 1986 | | |
+| - | - | 1980-11-30 H.es | 2007-12-02 H.es | 2013-12-01 H.es |
+| - | - | 1983-11-27 H.it | 2007-12-02 A.es | 2013-12-01 A.es |
+| - | - | 1986-11-30 H.it | 2010-11-28 A.es | 2016-11-27 A.es |
+| - | - | 1989-12-03 H.it | - | 2019-12-01 A.es |
+
 
 **Esta tabla seguirá completándose**
