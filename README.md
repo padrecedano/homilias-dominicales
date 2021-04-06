@@ -55,16 +55,17 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 ##### :scroll: HOMILÍAS (15 textos, de los cuales 5 traducciones)
 
 
-|Juan XXIII|Pablo VI|Juan Pablo II|Benedicto XVI|Francisco|
-| :---: |     :---:      |  :---:  | :---: | :---: |
-| - | - | `1980-11-30 H.es` | `2007-12-02 H.es` | `2013-12-01 H.es` |
-| - | - | `1983-11-27 H.it` | `2007-12-02 A.es` | `2013-12-01 A.es` |
-| - | - | `1986-11-30 H.it` | `2010-11-28 A.es` | `2016-11-27 A.es` |
-| - | - | `1989-12-03 H.it` | - | `2019-12-01 A.es` |
-| - | - | `1992-11-29 H.it` | - | - |
-| - | - | `1995-12-03 H.it` | - | - |
-| - | - | `1998-11-29 H.es` | - | - |
-| - | - | `2001-12-02 A.es` | - | - |
+|Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
+| :---:                   | :---:                   | :---:                   | :---:                   | :---:                   |
+| -                       | -                       | `1980-11-30 H.es`       | `2007-12-02 H.es`       | `2013-12-01 H.es`       |
+| -                       | -                       | `1983-11-27 H.it`       | `2007-12-02 A.es`       | `2013-12-01 A.es`       |
+| -                       | -                       | `1986-11-30 H.it`       | `2010-11-28 A.es`       | `2016-11-27 A.es`       |
+| -                       | -                       | `1989-12-03 H.it`       | -                       | `2019-12-01 A.es`       |
+| -                       | -                       | `1992-11-29 H.it`       | -                       | -                       |
+| -                       | -                       | `1995-12-03 H.it`       | -                       | -                       |
+| -                       | -                       | `1998-11-29 H.es`       | -                       | -                       |
+| -                       | -                       | `2001-12-02 A.es`       | -                       | -                       |
+
 
 ***
 
@@ -76,14 +77,14 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 ##### :scroll: HOMILÍAS (9 textos de los cuales 4 traducciones)
 
 
-|Juan XXIII|Pablo VI|Juan Pablo II|Benedicto XVI|Francisco|
-| :---: |     :---:      |  :---:  | :---: | :---: |
-| - | - | `1980-12-07 H.es` | `2007-12-09 A.es` | `2016-12-04 A.es` |
-| - | - | `1983-12-04 H.it` | `2010-12-05 A.es` | - |
-| - | - | `1986-12-07 H.it` | - | - |
-| - | - | `1989-12-10 H.it` | - | - |
-| - | - | `1992-12-06 H.it` | - | - |
-| - | - | `1998-12-06 H.es` | - | - |
+|Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
+| :---:                   | :---:                   | :---:                   | :---:                   | :---:                   |
+| -                       | -                       | `1980-12-07 H.es`       | `2007-12-09 A.es`       | `2016-12-04 A.es`       |
+| -                       | -                       | `1983-12-04 H.it`       | `2010-12-05 A.es`       | -                       |
+| -                       | -                       | `1986-12-07 H.it`       | -                       | -                       |
+| -                       | -                       | `1989-12-10 H.it`       | -                       | -                       |
+| -                       | -                       | `1992-12-06 H.it`       | -                       | -                       |
+| -                       | -                       | `1998-12-06 H.es`       | -                       | -                       |
 
 
 ***
@@ -95,16 +96,17 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 ##### :scroll: HOMILÍAS (16 textos, de los cuales 5 traducciones)
 
 
-|Juan XXIII|Pablo VI|Juan Pablo II|Benedicto XVI|Francisco|
-| :---: |     :---:      |  :---:  | :---: | :---: |
-| - | - | `1980-12-14 H.es` | `2007-12-16 H.es` | `2013-12-15 A.es` |
-| - | - | `1983-12-11 H.it` | `2007-12-16 A.es` | `2016-12-11 A.es` |
-| - | - | `1986-12-14 H.it` | `2010-12-12 H.es` | `2019-12-15 H.es` |
-| - | - | `1989-12-17 H.it` | `2010-12-12 A.es` | `2019-12-15 A.es` |
-| - | - | `1992-12-13 H.it` | - | - |
-| - | - | `1995-12-17 H.it` | - | - |
-| - | - | `1998-11-13 H.es` | - | - |
-| - | - | `2001-12-16 H.es` | - | - |
+|Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
+| :---:                   | :---:                   | :---:                   | :---:                   | :---:                   |
+| -                       | -                       | `1980-12-14 H.es`       | `2007-12-16 H.es`       | `2013-12-15 A.es`       |
+| -                       | -                       | `1983-12-11 H.it`       | `2007-12-16 A.es`       | `2016-12-11 A.es`       |
+| -                       | -                       | `1986-12-14 H.it`       | `2010-12-12 H.es`       | `2019-12-15 H.es`       |
+| -                       | -                       | `1989-12-17 H.it`       | `2010-12-12 A.es`       | `2019-12-15 A.es`       |
+| -                       | -                       | `1992-12-13 H.it`       | -                       | -                       |
+| -                       | -                       | `1995-12-17 H.it`       | -                       | -                       |
+| -                       | -                       | `1998-11-13 H.es`       | -                       | -                       |
+| -                       | -                       | `2001-12-16 H.es`       | -                       | -                       |
+
 
 
 ***
@@ -116,12 +118,13 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 ##### :scroll: HOMILÍAS (8 textos, de los cuales 3 traducciones)
 
 
-|Juan XXIII|Pablo VI|Juan Pablo II|Benedicto XVI|Francisco|
-| :---: |     :---:      |  :---:  | :---: | :---: |
-| - | - | `1983-12-18 H.it` | `2010-12-19 A.es` | `2013-12-22 A.es` |
-| - | - | `1986-12-21 H.it` | - | `2016-12-18 A.es` |
-| - | - | `1989-12-24 H.it(*)` | - | `2019-12-22 A.es` |
-| - | - | `1992-11-20 A.es(*)` | - | - |
+|Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
+| :---:                   | :---:                   |  :---:                  | :---:                   | :---:                   |
+|  -                      | -                       | `1983-12-18 H.it`       | `2010-12-19 A.es`       | `2013-12-22 A.es`       |
+| -                       | -                       | `1986-12-21 H.it`       | -                       | `2016-12-18 A.es`       |
+| -                       | -                       | `1989-12-24 H.it(*)`    | -                       | `2019-12-22 A.es`       |
+| -                       | -                       | `1992-11-20 A.es(*)`    | -                       | -                       |
+
 
 ***
 #### 🟡 NATIVIDAD DEL SEÑOR (MISA DE LA VIGILIA) [:small_red_triangle:](#tabla-de-contenidos)
@@ -146,17 +149,20 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 ##### :scroll: HOMILÍAS (20 textos, de los cuales 5 traducciones)
 
 
-|Juan XXIII          |Pablo VI            |Juan Pablo II       |Benedicto XVI       |Francisco            |
-| :---:              |     :---:          |  :---:             | :---:              | :---:               |
-| `1962-12-24 H.es`  | `1965-12-24 H.es`  | `1980-12-24 H.es`  | `2007-12-24 H.es`  | `2013-12-24 H.es`   |
-| -                  | `1977-12-24 H.es`  | `1983-12-24 H.it`  | `2010-12-24 H.es`  | `2013-12-25 UO.es`  |
-| -                  | -                  | `1986-12-24 H.it`  | -                  | `2016-12-24 H.es`   |
-| -                  | -                  | `1989-12-24 H.it`  | -                  | `2016-12-25 UO.es`  |
-| -                  | -                  | `1992-12-24 H.it`  | -                  | `2019-12-24 H.es`   |
-| -                  | -                  | `1995-12-24 H.it`  | -                  | `2019-12-24 UO.es`  |
-| -                  | -                  | `1998-12-24 H.es`  | -                  | -                   |
-| -                  | -                  | `2001-12-24 H.es`  | -                  | -                   |
-| -                  | -                  | `2004-12-24 H.es`  | -                  | -                   |
+|Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
+| :---:                   |     :---:               |  :---:                  | :---:                   | :---:                   |
+| `1962-12-24 H.es`       | `1965-12-24 H.es`       | `1980-12-24 H.es`       | `2007-12-24 H.es`       | `2013-12-24 H.es`       |
+| -                       | `1977-12-24 H.es`       | `1983-12-24 H.it`       | `2010-12-24 H.es`       | `2013-12-25 UO.es`      |
+| -                       | -                       | `1986-12-24 H.it`       | -                       | `2016-12-24 H.es`       |
+| -                       | -                       | `1989-12-24 H.it`       | -                       | `2016-12-25 UO.es`      |
+| -                       | -                       | `1992-12-24 H.it`       | -                       | `2019-12-24 H.es`       |
+| -                       | -                       | `1995-12-24 H.it`       | -                       | `2019-12-24 UO.es`      |
+| -                       | -                       | `1998-12-24 H.es`       | -                       | -                       |
+| -                       | -                       | `2001-12-24 H.es`       | -                       | -                       |
+| -                       | -                       | `2004-12-24 H.es`       | -                       | -                       |
+
+
+***
 
 #### 🟡 NATIVIDAD DEL SEÑOR (MISA DE LA AURORA) [:small_red_triangle:](#tabla-de-contenidos)
 
@@ -170,6 +176,8 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
  * **San Bernardo de Claraval**, Sermón 1-2 en la Epifanía del Señor, 1-2: PL 183, 141-143.
  * **San Hipólito de Roma**, Tratado contra las herejías, Cap. 10, 33-34: PG 16, 3452-3453.
  * **San Juan Pablo II**, Catequesis: La genealogía de Mateo, Audiencia general, 28 de diciembre de 1983.
+
+***
 
 #### 🟡 NATIVIDAD DEL SEÑOR (MISA DEL DÍA) [:small_red_triangle:](#tabla-de-contenidos)
 
@@ -197,6 +205,7 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 
 
 
-.
+| -                       | -                       | -                       | -                       | -                       |
+
 
 **Esta tabla seguirá completándose**
