@@ -138,7 +138,7 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 
 ***
 
-#### 🟡 NATIVIDAD DEL SEÑOR (MISA DE LA MEDIANOCHE) [:small_red_triangle:](#tabla-de-contenidos)
+#### 🟡 NATIVIDAD DEL SEÑOR (MISA DE MEDIANOCHE) [:small_red_triangle:](#tabla-de-contenidos)
 
 ##### :old_key: COMENTARIO PATRÍSTICO
    * **Beato Elredo de Rievaulx**, Sermón 1 de la Natividad del Señor: PL 195, 226-227.
@@ -158,9 +158,45 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 | -                  | -                  | `2001-12-24 H.es`  | -                  | -                   |
 | -                  | -                  | `2004-12-24 H.es`  | -                  | -                   |
 
+#### 🟡 NATIVIDAD DEL SEÑOR (MISA DE LA AURORA) [:small_red_triangle:](#tabla-de-contenidos)
 
+##### :old_key: COMENTARIO PATRÍSTICO
+   * **Teodoto de Ancira**, Sermón en la Natividad del Salvador, Edic. Schwartz, ACO t. 3, parte 1, 157-159.
 
+##### :scroll: HOMILÍAS (3 textos)
+
+Dado que para esta celebración no hay homilías de los papas, recogemos los siguientes textos en su lugar:
+
+ * **San Bernardo de Claraval**, Sermón 1-2 en la Epifanía del Señor, 1-2: PL 183, 141-143.
+ * **San Hipólito de Roma**, Tratado contra las herejías, Cap. 10, 33-34: PG 16, 3452-3453.
+ * **San Juan Pablo II**, Catequesis: La genealogía de Mateo, Audiencia general, 28 de diciembre de 1983.
+
+#### 🟡 NATIVIDAD DEL SEÑOR (MISA DEL DÍA) [:small_red_triangle:](#tabla-de-contenidos)
+
+##### :old_key: COMENTARIO PATRÍSTICO
+   * **San Basilio Magno**, Homilía 2, 6; PG 31, 1459-1462. 1471-1474.
+
+##### :scroll: HOMILÍAS (9 textos de los cuales 4 traducciones)
+
+Dado que para esta celebración no hay homilías de los papas, recogemos los siguientes textos en su lugar:
+
+* **San León Magno**, Sermón 6, 2-3 en la Natividad del Señor: PL 54, 213-216.
+* **San Ambrosio**, Comentario 4-5 sobre el salmo 35: CCL 64, 52-53.
+* **San Agustín**, Sermón 194, 3-4: PL 38, 1016-1017.
+* **San Fulberto de Chartres**, Carta 5: PL 141, 198-199.
+* **San Juan Pablo II**
+  * Mensaje Urbi et Orbi, 25 de enero de 1986 (original en italiano)  
+  * Mensaje Urbi et Orbi, 25 de enero de 1989 (original en italiano)  
+  * Mensaje Urbi et Orbi, 25 de enero de 1992 (original en italiano)  
+  * Mensaje Urbi et Orbi, 25 de enero de 1995 (original en italiano)  
+* **Benedicto XVI**
+  * Mensaje Urbi et Orbi, 25 de enero de 2007  
+  * Mensaje Urbi et Orbi, 25 de enero de 2010 
 
 ***
+
+
+
+.
 
 **Esta tabla seguirá completándose**
