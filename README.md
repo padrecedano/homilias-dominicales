@@ -25,7 +25,7 @@ Esta obra, que será publicada también en forma de libros impresos para quienes
 
 A continuación el detalle de cada uno de los volúmenes con el contenido homilético y patrístico respectivo.
 
-# Plan de trabajo por volúmenes
+# Plan de trabajo por volúmenes [:small_red_triangle:](#tabla-de-contenidos)
 
 ***
 
@@ -43,11 +43,11 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
   
 
 
-## Año A  (5 volúmenes)
+## Año A  (5 volúmenes) 
 ***
 ### Volumen 1: Adviento-Navidad
 ***
-#### 🟣 DOMINGO I DE ADVIENTO
+#### 🟣 DOMINGO I DE ADVIENTO [:small_red_triangle:](#tabla-de-contenidos)
 
 ##### :old_key: COMENTARIO PATRÍSTICO
    * **Pascasio Radberto**, Exposición sobre el evangelio de san Mateo, Lib. 11, cap. 24: PL 120, 799-800.
@@ -68,7 +68,7 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 
 ***
 
-#### 🟣 DOMINGO II DE ADVIENTO
+#### 🟣 DOMINGO II DE ADVIENTO [:small_red_triangle:](#tabla-de-contenidos)
 
 ##### :old_key: COMENTARIO PATRÍSTICO
    * **San Agustín**, Sermón 109, 1: PL 38, 636.
@@ -87,7 +87,7 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 
 
 ***
-#### 🟣 DOMINGO III DE ADVIENTO
+#### 🟣 DOMINGO III DE ADVIENTO [:small_red_triangle:](#tabla-de-contenidos)
 
 ##### :old_key: COMENTARIO PATRÍSTICO
    * **San Ambrosio**, Comentario sobre el evangelio de san Lucas, Lib. 5, 93-95. 99-102. 109: CCL 14, 165-166. 167-168. 171-177.
