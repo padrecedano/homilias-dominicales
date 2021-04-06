@@ -124,7 +124,7 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 | - | - | `1992-11-20 A.es(*)` | - | - |
 
 ***
-#### 🟣 NATIVIDAD DEL SEÑOR (MISA DE LA VIGILIA) [:small_red_triangle:](#tabla-de-contenidos)
+#### 🟡 NATIVIDAD DEL SEÑOR (MISA DE LA VIGILIA) [:small_red_triangle:](#tabla-de-contenidos)
 
 ##### :old_key: COMENTARIO PATRÍSTICO
    * **San Pedro Crisólogo**, Sermón 145: PL 52, 588.
@@ -138,5 +138,29 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 
 ***
 
+#### 🟡 NATIVIDAD DEL SEÑOR (MISA DE LA MEDIANOCHE) [:small_red_triangle:](#tabla-de-contenidos)
+
+##### :old_key: COMENTARIO PATRÍSTICO
+   * **Beato Elredo de Rievaulx**, Sermón 1 de la Natividad del Señor: PL 195, 226-227.
+
+##### :scroll: HOMILÍAS (20 textos, de los cuales 5 traducciones)
+
+
+|Juan XXIII          |Pablo VI            |Juan Pablo II       |Benedicto XVI       |Francisco            |
+| :---:              |     :---:          |  :---:             | :---:              | :---:               |
+| `1962-12-24 H.es`  | `1965-12-24 H.es`  | `1980-12-24 H.es`  | `2007-12-24 H.es`  | `2013-12-24 H.es`   |
+| -                  | `1977-12-24 H.es`  | `1983-12-24 H.it`  | `2010-12-24 H.es`  | `2013-12-25 UO.es`  |
+| -                  | -                  | `1986-12-24 H.it`  | -                  | `2016-12-24 H.es`   |
+| -                  | -                  | `1989-12-24 H.it`  | -                  | `2016-12-25 UO.es`  |
+| -                  | -                  | `1992-12-24 H.it`  | -                  | `2019-12-24 H.es`   |
+| -                  | -                  | `1995-12-24 H.it`  | -                  | `2019-12-24 UO.es`  |
+| -                  | -                  | `1998-12-24 H.es`  | -                  | -                   |
+| -                  | -                  | `2001-12-24 H.es`  | -                  | -                   |
+| -                  | -                  | `2004-12-24 H.es`  | -                  | -                   |
+
+
+
+
+***
 
 **Esta tabla seguirá completándose**
