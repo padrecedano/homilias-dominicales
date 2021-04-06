@@ -259,7 +259,7 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
    * **San Máximo Confesor**, De las Cinco Centurias, Centuria 1, 8-13: PG 90, 1182-86.
 
 .
-##### :scroll: HOMILÍAS (19 textos, de los cuales 5 traducciones)
+##### :scroll: HOMILÍAS (4 textos)
 
 
 |Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
@@ -273,8 +273,8 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 #### 🟡 EPIFANÍA DEL SEÑOR [:small_red_triangle:](#tabla-de-contenidos)
 
 ##### :old_key: COMENTARIO PATRÍSTICO
-   * **San Atanasio de Alejandría**, Carta a Epicteto, 5-9: PG 26, 1058. 1062-1066.
-   * **San Cirilo de Alejandría**, Homilía 4, pronunciada en el Concilio de Éfeso: PG 77, 991. 995-996.
+   * **San León Magno**, Sermón en la Epifanía del Señor 3, 1-3. 5: PL 54, 240-244.
+   * **San Francisco de Sales**, Sermón VIII, 38.
 
 ##### :scroll: HOMILÍAS (17 textos, de los cuales 6 traducciones)
 
@@ -294,8 +294,29 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 ***
 
 
+#### 🟡 BAUTISMO DEL SEÑOR [:small_red_triangle:](#tabla-de-contenidos)
 
-| -                       | -                       | `2005-01-01 H.es`       | -                       | -                       |
+##### :old_key: COMENTARIO PATRÍSTICO
+   * **San Gregorio de Neocesarea**, Homilía 4 en la santa Teofanía: PG 10, 1182-1183.
+   * **San Pedro Crisólogo**, Sermón 160: PL 52, 620-622.
+
+##### :scroll: HOMILÍAS (18 textos, de los cuales 5 traducciones)
+
+
+|Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
+| :---:                   | :---:                   | :---:                   | :---:                   | :---:                   |
+| -                       | -                       | `1981-01-11 H.es`       | `2008-01-13 H.es`       | `2014-01-12 H.es`       |
+| -                       | -                       | `1984-01-08 H.it`       | `2008-01-13 A.es`       | `2014-01-12 A.es`       |
+| -                       | -                       | `1987-01-11 H.it`       | `2011-01-09 H.es`       | `2017-01-08 H.es`       |
+| -                       | -                       | `1990-01-07 H.it`       | `2011-01-09 A.es`       | `2017-01-08 A.es`       |
+| -                       | -                       | `1993-01-10 H.it`       | -                       | `2020-01-12 H.es`       |
+| -                       | -                       | `1996-01-07 H.it`       | -                       | `2020-01-12 A.es`       |
+| -                       | -                       | `1999-01-10 H.es`       | -                       | -                       |
+| -                       | -                       | `2002-01-13 H.es`       | -                       | -                       |
+
+***
+
+
 
 
 
