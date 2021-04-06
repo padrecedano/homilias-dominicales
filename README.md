@@ -38,6 +38,7 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
   - **`A.it`** : Ángelus o Regina Caeli originalmente en italiano y traducido al castellano
   - **`C`** : Catequesis (generalmente en la Audiencia General de los miércoles)
   - **`M`** : Mensaje
+  - **`D.es`** : Discurso originalmente en castellano
   - **`UO.es`** : Mensaje Urbi et Orbi (que el Papa suele hacer los días de Navidad y Pascua) originalmente en castellano
   - **`UO.it`** : Mensaje Urbi et Orbi originalmente en italiano y traducido castellano
   
@@ -203,6 +204,26 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 
 ***
 
+#### 🟡 SAGRADA FAMILIA [:small_red_triangle:](#tabla-de-contenidos)
+
+##### :old_key: COMENTARIO PATRÍSTICO
+   * **San Juan Crisóstome**, Homilía sobre el día de Navidad: PG 56, 392.
+
+##### :scroll: HOMILÍAS (14 textos, de los cuales 1 traducción)
+
+
+|Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
+| :---:                   |     :---:               |  :---:                  | :---:                   | :---:                   |
+| `1960-01-10 D.es`       | `1965-12-24 H.es`       | `1986-12-28 A.es`       | `2007-12-30 A.es`       | `2013-12-29 A.es`       |
+| -                       | `1977-12-24 H.es`       | `1989-12-31 H.it`       | `2010-12-26 A.es`       | `2019-12-29 A.es`       |
+| -                       | -                       | `1989-12-31 A.es`       | -                       | -                       |
+| -                       | -                       | `1992-12-27 A.es`       | -                       | -                       |
+| -                       | -                       | `1995-12-31 A.es`       | -                       | -                       |
+| -                       | -                       | `1998-12-27 A.es`       | -                       | -                       |
+| -                       | -                       | `2001-12-30 A.es`       | -                       | -                       |
+
+
+***
 
 
 | -                       | -                       | -                       | -                       | -                       |
