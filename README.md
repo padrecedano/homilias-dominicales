@@ -110,6 +110,23 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 
 
 ***
+#### 🟣 DOMINGO IV DE ADVIENTO [:small_red_triangle:](#tabla-de-contenidos)
+
+##### :old_key: COMENTARIO PATRÍSTICO
+   * **San Beda el Venerable**, Homilía 5 en la vigilia de Navidad: CCL 122, 32-36.
+
+##### :scroll: HOMILÍAS (8 textos, de los cuales 3 traducciones)
+
+
+|Juan XXIII|Pablo VI|Juan Pablo II|Benedicto XVI|Francisco|
+| :---: |     :---:      |  :---:  | :---: | :---: |
+| - | - | `1983-12-18 H.it` | `2010-12-19 A.es` | `2013-12-22 A.es` |
+| - | - | `1986-12-21 H.it` | - | `2016-12-18 A.es` |
+| - | - | `1989-12-24 H.it(*)` | - | `2019-12-22 A.es` |
+| - | - | `1992-11-20 A.es(*)` | - | - |
+
+
+***
 
 
 **Esta tabla seguirá completándose**
