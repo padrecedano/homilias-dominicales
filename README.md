@@ -1,3 +1,16 @@
+# Tabla de contenidos
+
+- [Preámbulo](#preámbulo)
+- [Plan de trabajo por volúmenes](#plan-de-trabajo-por-volúmenes)
+  - [Año A](#año-a--5-volúmenes)
+    - [1. Adviento-Navidad](#volumen-1-adviento-navidad)
+      - [Domingo I de Adviento](#-domingo-i-de-adviento)
+      - [Domingo II de Adviento](#-domingo-ii-de-adviento)
+      - [Domingo III de Adviento](#-domingo-iii-de-adviento)
+      - [Domingo IV de Adviento](#-domingo-iv-de-adviento)
+
+***
+
 # Preámbulo
 
 La presente obra es el fruto de muchos años y horas de trabajo de recopilación, revisión y traducción. Yo he recogido y organizado durante más de dos décadas muchos escritos de los Padres de la Iglesia, de algunos santos y de los últimos sucesores de Pedro en forma de homilías o comentarios a los textos bíblicos. Gran parte de ese contenido es compartido desde el año 2013 en el sitio web [deiverbum.org](https://www.deiverbum.org), de una forma más o menos ordenada: por celebraciones litúrgicas, por perícopas, etc.
