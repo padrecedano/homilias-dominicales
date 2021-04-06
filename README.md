@@ -249,6 +249,57 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 | -                       | -                       | `2005-01-01 H.es`       | -                       | -                       |
 
 
+***
+
+
+#### 🟡 DOMINGO II DE NAVIDAD [:small_red_triangle:](#tabla-de-contenidos)
+
+##### :old_key: COMENTARIO PATRÍSTICO
+   * **San León Magno**, Sermón 6, 2-3 en la Natividad del Señor: PL 54, 213-216.
+   * **San Máximo Confesor**, De las Cinco Centurias, Centuria 1, 8-13: PG 90, 1182-86.
+
+.
+##### :scroll: HOMILÍAS (19 textos, de los cuales 5 traducciones)
+
+
+|Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
+| :---:                   | :---:                   | :---:                   | :---:                   | :---:                   |
+| -                       | -                       | -                       | `2010-01-03 A.es`       | `2014-01-05 A.es`       |
+| -                       | -                       | -                       | `2011-01-02 A.es`       | `2020-01-05 A.es`       |
+
+***
+
+
+#### 🟡 EPIFANÍA DEL SEÑOR [:small_red_triangle:](#tabla-de-contenidos)
+
+##### :old_key: COMENTARIO PATRÍSTICO
+   * **San Atanasio de Alejandría**, Carta a Epicteto, 5-9: PG 26, 1058. 1062-1066.
+   * **San Cirilo de Alejandría**, Homilía 4, pronunciada en el Concilio de Éfeso: PG 77, 991. 995-996.
+
+##### :scroll: HOMILÍAS (17 textos, de los cuales 6 traducciones)
+
+
+|Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
+| :---:                   | :---:                   | :---:                   | :---:                   | :---:                   |
+| -                       | `1969-01-06 H.it`       | `1981-01-06 H.es`       | `2008-01-06 H.es`       | `2014-01-06 H.es`       |
+| -                       | -                       | `1984-01-06 H.it`       | `2011-01-06 H.es`       | `2014-01-06 A.es`       |
+| -                       | -                       | `1987-01-06 H.it`       | -                       | `2017-01-06 H.es`       |
+| -                       | -                       | `1990-01-06 H.it`       | -                       | `2017-01-06 A.es`       |
+| -                       | -                       | `1993-01-06 H.it`       | -                       | `2020-01-06 H.es`       |
+| -                       | -                       | `1996-01-06 H.it`       | -                       | `2020-01-06 A.es`       |
+| -                       | -                       | `1999-01-06 H.es`       | -                       | -                       |
+| -                       | -                       | `2002-01-06 H.es`       | -                       | -                       |
+
+
+***
+
+
+
+| -                       | -                       | `2005-01-01 H.es`       | -                       | -                       |
+
+
+
+
 
 
 | -                       | -                       | -                       | -                       | -                       |
