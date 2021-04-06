@@ -223,7 +223,32 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 | -                       | -                       | `2001-12-30 A.es`       | -                       | -                       |
 
 
+
 ***
+
+
+#### 🟡 SANTA MARÍA, MADRE DE DIOS (1 DE ENERO) [:small_red_triangle:](#tabla-de-contenidos)
+
+##### :old_key: COMENTARIO PATRÍSTICO
+   * **San Atanasio de Alejandría**, Carta a Epicteto, 5-9: PG 26, 1058. 1062-1066.
+   * **San Cirilo de Alejandría**, Homilía 4, pronunciada en el Concilio de Éfeso: PG 77, 991. 995-996.
+
+##### :scroll: HOMILÍAS (19 textos, de los cuales 5 traducciones)
+
+
+|Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
+| :---:                   | :---:                   | :---:                   | :---:                   | :---:                   |
+| -                       | `1975-01-01 H.it`       | `1981-01-01 H.es`       | `2008-01-01 H.es`       | `2014-01-01 H.es`       |
+| -                       | `1978-01-01 H.es`       | `1984-01-01 H.it`       | `2011-01-01 H.es`       | `2014-01-01 A.es`       |
+| -                       | -                       | `1987-01-01 H.it`       | -                       | `2017-01-01 H.es`       |
+| -                       | -                       | `1990-01-01 H.it`       | -                       | `2017-01-01 A.es`       |
+| -                       | -                       | `1993-01-01 H.it`       | -                       | `2020-01-01 H.es`       |
+| -                       | -                       | `1996-01-01 H.it`       | -                       | `2020-01-01 A.es`       |
+| -                       | -                       | `1999-01-01 H.es`       | -                       | -                       |
+| -                       | -                       | `2002-01-01 H.es`       | -                       | -                       |
+| -                       | -                       | `2005-01-01 H.es`       | -                       | -                       |
+
+
 
 
 | -                       | -                       | -                       | -                       | -                       |
