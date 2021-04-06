@@ -123,6 +123,18 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 | - | - | `1989-12-24 H.it(*)` | - | `2019-12-22 A.es` |
 | - | - | `1992-11-20 A.es(*)` | - | - |
 
+***
+#### 🟣 NATIVIDAD DEL SEÑOR (MISA DE LA VIGILIA) [:small_red_triangle:](#tabla-de-contenidos)
+
+##### :old_key: COMENTARIO PATRÍSTICO
+   * **San Pedro Crisólogo**, Sermón 145: PL 52, 588.
+
+##### :scroll: HOMILÍAS (2 textos)
+
+Dado que para esta celebración no hay homilías de los papas, recogemos los siguientes textos en su lugar:
+
+ * **San Bernardo de Claraval**, Sermón 27, 7.9 sobre el Cantar de los cantares: Opera omnia. Edit. Cister. 1957, I, 186-188.
+ * **San Juan Pablo II**, Catequesis: La genealogía de Mateo, Audiencia general, 28 de enero de 1987, nn. 5-10.
 
 ***
 
