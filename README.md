@@ -72,15 +72,16 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 | :---:                   | :---:                   | :---:                   | :---:                   | :---:                   |
 | -                       | -                       | `1980-11-30 H.es`       | `2007-12-02 H.es`       | `2013-12-01 H.es`       |
 | -                       | -                       | `1983-11-27 H.it`       | `2007-12-02 A.es`       | `2013-12-01 A.es`       |
-| -                       | -                       | `(*)`                   | `2010-11-28 A.es`       | `2016-11-27 A.es`       |
+| -                       | -                       | `1986-11-30 H.it`       | `2010-11-28 A.es`       | `2016-11-27 A.es`       |
 | -                       | -                       | `1989-12-03 H.it`       | -                       | `2019-12-01 A.es`       |
 | -                       | -                       | `1992-11-29 H.it`       | -                       | -                       |
 | -                       | -                       | `1995-12-03 H.it`       | -                       | -                       |
 | -                       | -                       | `1998-11-29 H.es`       | -                       | -                       |
 | -                       | -                       | `2001-12-02 A.es`       | -                       | -                       |
 
-(*) La celebración de 1986 fue dedicada a la familia, por lo que ha sido trasladada a esa fiesta.
+
 ***
+
 
 #### 🟣 DOMINGO II DE ADVIENTO [:small_red_triangle:](#tabla-de-contenidos)
 
