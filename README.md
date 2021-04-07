@@ -65,7 +65,7 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 ##### :old_key: COMENTARIO PATRÍSTICO
    * **Pascasio Radberto**, Exposición sobre el evangelio de san Mateo, Lib. 11, cap. 24: PL 120, 799-800.
 
-##### :scroll: HOMILÍAS (14 textos, de los cuales 4 traducciones)
+##### :scroll: HOMILÍAS (15 textos, de los cuales 5 traducciones)
 
 
 |Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
