@@ -32,6 +32,10 @@ Esta obra, que será publicada también en forma de libros impresos para quienes
           - [Epifanía del Señor](#-epifan%C3%ADa-del-se%C3%B1or-small_red_triangle)
           - [Bautismo del Señor](#-bautismo-del-se%C3%B1or-small_red_triangle)
 
+1. [Versión elecrónica de volúmenes publicados](#plan-de-trabajo-por-volúmenes-small_red_triangle)
+
+
+
 ***
 
 
@@ -330,7 +334,10 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 
 ***
 
+# Versión elecrónica de volúmenes publicados
 
+ - [B1 (Adviento-Navidad)](https://bit.ly/3lbCBcs) (publicado en Blurb)
+ - [B2 (Cuaresma-Triduo Pascual](http://bit.ly/3bfqYyk) (borrador aún no publicado)
 
 <!--- | -                       | -                       | -                       | -                       | -                       |  --->
 
