@@ -57,10 +57,10 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
   - **`D.es`** : Discurso originalmente en castellano
   - **`UO.es`** : Mensaje Urbi et Orbi (que el Papa suele hacer los días de Navidad y Pascua) originalmente en castellano
   - **`UO.it`** : Mensaje Urbi et Orbi originalmente en italiano y traducido castellano
-  
 
 
-## Año A  (5 volúmenes) 
+
+## Año A  (5 volúmenes)
 ***
 ### Volumen 1: Adviento-Navidad
 ***
@@ -217,7 +217,7 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
   * Mensaje Urbi et Orbi, 25 de enero de 1995 (original en italiano)  
 * **Benedicto XVI**
   * Mensaje Urbi et Orbi, 25 de enero de 2007  
-  * Mensaje Urbi et Orbi, 25 de enero de 2010 
+  * Mensaje Urbi et Orbi, 25 de enero de 2010
 
 ***
 
@@ -277,13 +277,15 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
    * **San Máximo Confesor**, De las Cinco Centurias, Centuria 1, 8-13: PG 90, 1182-86.
 
 .
-##### :scroll: HOMILÍAS (4 textos)
+##### :scroll: HOMILÍAS (5 textos, de los cuales 1 traducción)
 
 
 |Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
 | :---:                   | :---:                   | :---:                   | :---:                   | :---:                   |
-| -                       | -                       | -                       | `2010-01-03 A.es`       | `2014-01-05 A.es`       |
+| -                       | -                       | `1983-01-31 H.it(*)`    | `2010-01-03 A.es`       | `2014-01-05 A.es`       |
 | -                       | -                       | -                       | `2011-01-02 A.es`       | `2020-01-05 A.es`       |
+
+(*) Homilía pronunciada el 31 de Diciembre, pero aplica para esta celebración porque es el mismo texto evangélico.
 
 ***
 
@@ -344,6 +346,3 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 
  - [B1 (Adviento-Navidad)](https://bit.ly/3lbCBcs) (publicado en Blurb)
  - [B2 (Cuaresma-Triduo Pascual](http://bit.ly/3bfqYyk) (borrador aún no publicado)
-
-
-
