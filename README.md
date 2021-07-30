@@ -60,16 +60,18 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 
 
 
-## Año A  (5 volúmenes)
+# Año A  (5 volúmenes)
 ***
-### Volumen 1: Adviento-Navidad
+## Volumen 1: Adviento-Navidad
 ***
-#### 🟣 DOMINGO I DE ADVIENTO [:small_red_triangle:](#tabla-de-contenidos)
+### Primera parte: Tiempo de Adviento
+***
+#### 1. DOMINGO I DE ADVIENTO [:small_red_triangle:](#tabla-de-contenidos)
 
-##### :old_key: COMENTARIO PATRÍSTICO
+##### 1.1 COMENTARIO PATRÍSTICO
    * **Pascasio Radberto**, Exposición sobre el evangelio de san Mateo, Lib. 11, cap. 24: PL 120, 799-800.
 
-##### :scroll: HOMILÍAS (15 textos, de los cuales 5 traducciones)
+##### 1.2 HOMILÍAS (15 textos, de los cuales 5 traducciones)
 
 
 |Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
@@ -87,12 +89,12 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 ***
 
 
-#### 🟣 DOMINGO II DE ADVIENTO [:small_red_triangle:](#tabla-de-contenidos)
+#### 2. DOMINGO II DE ADVIENTO [:small_red_triangle:](#tabla-de-contenidos)
 
-##### :old_key: COMENTARIO PATRÍSTICO
+##### 2.1 COMENTARIO PATRÍSTICO
    * **San Agustín**, Sermón 109, 1: PL 38, 636.
 
-##### :scroll: HOMILÍAS (9 textos de los cuales 4 traducciones)
+##### 2.2 HOMILÍAS (9 textos de los cuales 4 traducciones)
 
 
 |Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
@@ -106,12 +108,12 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 
 
 ***
-#### 🟣 DOMINGO III DE ADVIENTO [:small_red_triangle:](#tabla-de-contenidos)
+#### 3. DOMINGO III DE ADVIENTO [:small_red_triangle:](#tabla-de-contenidos)
 
-##### :old_key: COMENTARIO PATRÍSTICO
+##### 3.1 COMENTARIO PATRÍSTICO
    * **San Ambrosio**, Comentario sobre el evangelio de san Lucas, Lib. 5, 93-95. 99-102. 109: CCL 14, 165-166. 167-168. 171-177.
 
-##### :scroll: HOMILÍAS (16 textos, de los cuales 5 traducciones)
+##### 3.2 HOMILÍAS (16 textos, de los cuales 5 traducciones)
 
 
 |Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
@@ -128,12 +130,12 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 
 
 ***
-#### 🟣 DOMINGO IV DE ADVIENTO [:small_red_triangle:](#tabla-de-contenidos)
+#### 4. DOMINGO IV DE ADVIENTO [:small_red_triangle:](#tabla-de-contenidos)
 
-##### :old_key: COMENTARIO PATRÍSTICO
+##### 4.1 COMENTARIO PATRÍSTICO
    * **San Beda el Venerable**, Homilía 5 en la vigilia de Navidad: CCL 122, 32-36.
 
-##### :scroll: HOMILÍAS (8 textos, de los cuales 3 traducciones)
+##### 4.2 HOMILÍAS (8 textos, de los cuales 3 traducciones)
 
 
 |Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
@@ -145,12 +147,14 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 
 
 ***
-#### 🟡 NATIVIDAD DEL SEÑOR (MISA DE LA VIGILIA) [:small_red_triangle:](#tabla-de-contenidos)
+### Segunda parte: Tiempo de Navidad
+***
+#### 1. NATIVIDAD DEL SEÑOR (MISA DE LA VIGILIA) [:small_red_triangle:](#tabla-de-contenidos)
 
-##### :old_key: COMENTARIO PATRÍSTICO
+##### 1.1 COMENTARIO PATRÍSTICO
    * **San Pedro Crisólogo**, Sermón 145: PL 52, 588.
 
-##### :scroll: HOMILÍAS (2 textos)
+##### 1.2 HOMILÍAS (2 textos)
 
 Dado que para esta celebración no hay homilías de los papas, recogemos los siguientes textos en su lugar:
 
@@ -159,12 +163,12 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 
 ***
 
-#### 🟡 NATIVIDAD DEL SEÑOR (MISA DE MEDIANOCHE) [:small_red_triangle:](#tabla-de-contenidos)
+#### 2. NATIVIDAD DEL SEÑOR (MISA DE MEDIANOCHE) [:small_red_triangle:](#tabla-de-contenidos)
 
-##### :old_key: COMENTARIO PATRÍSTICO
+##### 2.1 COMENTARIO PATRÍSTICO
    * **Beato Elredo de Rievaulx**, Sermón 1 de la Natividad del Señor: PL 195, 226-227.
 
-##### :scroll: HOMILÍAS (20 textos, de los cuales 5 traducciones)
+##### 2.2 HOMILÍAS (20 textos, de los cuales 5 traducciones)
 
 
 |Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
@@ -182,12 +186,12 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 
 ***
 
-#### 🟡 NATIVIDAD DEL SEÑOR (MISA DE LA AURORA) [:small_red_triangle:](#tabla-de-contenidos)
+#### 3. NATIVIDAD DEL SEÑOR (MISA DE LA AURORA) [:small_red_triangle:](#tabla-de-contenidos)
 
-##### :old_key: COMENTARIO PATRÍSTICO
+##### 3.1 COMENTARIO PATRÍSTICO
    * **Teodoto de Ancira**, Sermón en la Natividad del Salvador, Edic. Schwartz, ACO t. 3, parte 1, 157-159.
 
-##### :scroll: HOMILÍAS (3 textos)
+##### 3.2 HOMILÍAS (3 textos)
 
 Dado que para esta celebración no hay homilías de los papas, recogemos los siguientes textos en su lugar:
 
@@ -197,12 +201,12 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 
 ***
 
-#### 🟡 NATIVIDAD DEL SEÑOR (MISA DEL DÍA) [:small_red_triangle:](#tabla-de-contenidos)
+#### 4. NATIVIDAD DEL SEÑOR (MISA DEL DÍA) [:small_red_triangle:](#tabla-de-contenidos)
 
-##### :old_key: COMENTARIO PATRÍSTICO
+##### 4.1 COMENTARIO PATRÍSTICO
    * **San Basilio Magno**, Homilía 2, 6; PG 31, 1459-1462. 1471-1474.
 
-##### :scroll: HOMILÍAS (9 textos de los cuales 4 traducciones)
+##### 4.2 HOMILÍAS (9 textos de los cuales 4 traducciones)
 
 Dado que para esta celebración no hay homilías de los papas, recogemos los siguientes textos en su lugar:
 
@@ -221,12 +225,12 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 
 ***
 
-#### 🟡 SAGRADA FAMILIA [:small_red_triangle:](#tabla-de-contenidos)
+#### 5. SAGRADA FAMILIA [:small_red_triangle:](#tabla-de-contenidos)
 
-##### :old_key: COMENTARIO PATRÍSTICO
+##### 5.1 COMENTARIO PATRÍSTICO
    * **San Juan Crisóstome**, Homilía sobre el día de Navidad: PG 56, 392.
 
-##### :scroll: HOMILÍAS (15 textos, de los cuales 2 traducciones)
+##### 5.2 HOMILÍAS (15 textos, de los cuales 2 traducciones)
 
 
 |Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
@@ -245,13 +249,13 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 ***
 
 
-#### 🟡 SANTA MARÍA, MADRE DE DIOS (1 DE ENERO) [:small_red_triangle:](#tabla-de-contenidos)
+#### 6. SANTA MARÍA, MADRE DE DIOS (1 DE ENERO) [:small_red_triangle:](#tabla-de-contenidos)
 
-##### :old_key: COMENTARIO PATRÍSTICO
+##### 6.1 COMENTARIO PATRÍSTICO
    * **San Atanasio de Alejandría**, Carta a Epicteto, 5-9: PG 26, 1058. 1062-1066.
    * **San Cirilo de Alejandría**, Homilía 4, pronunciada en el Concilio de Éfeso: PG 77, 991. 995-996.
 
-##### :scroll: HOMILÍAS (19 textos, de los cuales 5 traducciones)
+##### 6.2 HOMILÍAS (19 textos, de los cuales 5 traducciones)
 
 
 |Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
@@ -270,14 +274,14 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 ***
 
 
-#### 🟡 DOMINGO II DE NAVIDAD [:small_red_triangle:](#tabla-de-contenidos)
+#### 7. DOMINGO II DE NAVIDAD [:small_red_triangle:](#tabla-de-contenidos)
 
-##### :old_key: COMENTARIO PATRÍSTICO
+##### 7.1 COMENTARIO PATRÍSTICO
    * **San León Magno**, Sermón 6, 2-3 en la Natividad del Señor: PL 54, 213-216.
    * **San Máximo Confesor**, De las Cinco Centurias, Centuria 1, 8-13: PG 90, 1182-86.
 
 .
-##### :scroll: HOMILÍAS (5 textos, de los cuales 1 traducción)
+##### 7.2 HOMILÍAS (5 textos, de los cuales 1 traducción)
 
 
 |Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
@@ -290,13 +294,13 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 ***
 
 
-#### 🟡 EPIFANÍA DEL SEÑOR [:small_red_triangle:](#tabla-de-contenidos)
+#### 8. EPIFANÍA DEL SEÑOR [:small_red_triangle:](#tabla-de-contenidos)
 
-##### :old_key: COMENTARIO PATRÍSTICO
+##### 8.1 COMENTARIO PATRÍSTICO
    * **San León Magno**, Sermón en la Epifanía del Señor 3, 1-3. 5: PL 54, 240-244.
    * **San Francisco de Sales**, Sermón VIII, 38.
 
-##### :scroll: HOMILÍAS (17 textos, de los cuales 6 traducciones)
+##### 8.2 HOMILÍAS (17 textos, de los cuales 6 traducciones)
 
 
 |Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
@@ -314,13 +318,13 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 ***
 
 
-#### 🟡 BAUTISMO DEL SEÑOR [:small_red_triangle:](#tabla-de-contenidos)
+#### 9. BAUTISMO DEL SEÑOR [:small_red_triangle:](#tabla-de-contenidos)
 
-##### :old_key: COMENTARIO PATRÍSTICO
+##### 9.1 COMENTARIO PATRÍSTICO
    * **San Gregorio de Neocesarea**, Homilía 4 en la santa Teofanía: PG 10, 1182-1183.
    * **San Pedro Crisólogo**, Sermón 160: PL 52, 620-622.
 
-##### :scroll: HOMILÍAS (18 textos, de los cuales 5 traducciones)
+##### 9.2 HOMILÍAS (18 textos, de los cuales 5 traducciones)
 
 
 |Juan XXIII               |Pablo VI                 |Juan Pablo II            |Benedicto XVI            |Francisco                |
@@ -342,7 +346,7 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 
 ***
 
-# Versión elecrónica de volúmenes publicados
+# Versión electrónica de volúmenes publicados
 
  - [B1 (Adviento-Navidad)](https://bit.ly/3lbCBcs) (publicado en Blurb)
  - [B2 (Cuaresma-Triduo Pascual](http://bit.ly/3bfqYyk) (borrador aún no publicado)
