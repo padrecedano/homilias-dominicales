@@ -39,7 +39,7 @@ Esta obra, que será publicada también en forma de libros impresos para quienes
 ***
 
 
-# Plan de trabajo por volúmenes [:small_red_triangle:](#tabla-de-contenidos)
+# Plan de trabajo por volúmenes [índice](#tabla-de-contenidos)
 
 A continuación el detalle de cada uno de los volúmenes con el contenido homilético y patrístico respectivo.
 
@@ -66,7 +66,7 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 ***
 ### Primera parte: Tiempo de Adviento
 ***
-#### 1. DOMINGO I DE ADVIENTO [:small_red_triangle:](#tabla-de-contenidos)
+#### 1. DOMINGO I DE ADVIENTO [índice](#tabla-de-contenidos)
 
 ##### 1.1 COMENTARIO PATRÍSTICO
    * **Pascasio Radberto**, Exposición sobre el evangelio de san Mateo, Lib. 11, cap. 24: PL 120, 799-800.
@@ -89,7 +89,7 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 ***
 
 
-#### 2. DOMINGO II DE ADVIENTO [:small_red_triangle:](#tabla-de-contenidos)
+#### 2. DOMINGO II DE ADVIENTO [índice](#tabla-de-contenidos)
 
 ##### 2.1 COMENTARIO PATRÍSTICO
    * **San Agustín**, Sermón 109, 1: PL 38, 636.
@@ -108,7 +108,7 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 
 
 ***
-#### 3. DOMINGO III DE ADVIENTO [:small_red_triangle:](#tabla-de-contenidos)
+#### 3. DOMINGO III DE ADVIENTO [índice](#tabla-de-contenidos)
 
 ##### 3.1 COMENTARIO PATRÍSTICO
    * **San Ambrosio**, Comentario sobre el evangelio de san Lucas, Lib. 5, 93-95. 99-102. 109: CCL 14, 165-166. 167-168. 171-177.
@@ -130,7 +130,7 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 
 
 ***
-#### 4. DOMINGO IV DE ADVIENTO [:small_red_triangle:](#tabla-de-contenidos)
+#### 4. DOMINGO IV DE ADVIENTO [índice](#tabla-de-contenidos)
 
 ##### 4.1 COMENTARIO PATRÍSTICO
    * **San Beda el Venerable**, Homilía 5 en la vigilia de Navidad: CCL 122, 32-36.
@@ -149,7 +149,7 @@ A continuación el detalle de cada uno de los volúmenes con el contenido homil�
 ***
 ### Segunda parte: Tiempo de Navidad
 ***
-#### 1. NATIVIDAD DEL SEÑOR (MISA DE LA VIGILIA) [:small_red_triangle:](#tabla-de-contenidos)
+#### 1. NATIVIDAD DEL SEÑOR (MISA DE LA VIGILIA) [índice](#tabla-de-contenidos)
 
 ##### 1.1 COMENTARIO PATRÍSTICO
    * **San Pedro Crisólogo**, Sermón 145: PL 52, 588.
@@ -163,7 +163,7 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 
 ***
 
-#### 2. NATIVIDAD DEL SEÑOR (MISA DE MEDIANOCHE) [:small_red_triangle:](#tabla-de-contenidos)
+#### 2. NATIVIDAD DEL SEÑOR (MISA DE MEDIANOCHE) [índice](#tabla-de-contenidos)
 
 ##### 2.1 COMENTARIO PATRÍSTICO
    * **Beato Elredo de Rievaulx**, Sermón 1 de la Natividad del Señor: PL 195, 226-227.
@@ -186,7 +186,7 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 
 ***
 
-#### 3. NATIVIDAD DEL SEÑOR (MISA DE LA AURORA) [:small_red_triangle:](#tabla-de-contenidos)
+#### 3. NATIVIDAD DEL SEÑOR (MISA DE LA AURORA) [índice](#tabla-de-contenidos)
 
 ##### 3.1 COMENTARIO PATRÍSTICO
    * **Teodoto de Ancira**, Sermón en la Natividad del Salvador, Edic. Schwartz, ACO t. 3, parte 1, 157-159.
@@ -201,7 +201,7 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 
 ***
 
-#### 4. NATIVIDAD DEL SEÑOR (MISA DEL DÍA) [:small_red_triangle:](#tabla-de-contenidos)
+#### 4. NATIVIDAD DEL SEÑOR (MISA DEL DÍA) [índice](#tabla-de-contenidos)
 
 ##### 4.1 COMENTARIO PATRÍSTICO
    * **San Basilio Magno**, Homilía 2, 6; PG 31, 1459-1462. 1471-1474.
@@ -225,7 +225,7 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 
 ***
 
-#### 5. SAGRADA FAMILIA [:small_red_triangle:](#tabla-de-contenidos)
+#### 5. SAGRADA FAMILIA [índice](#tabla-de-contenidos)
 
 ##### 5.1 COMENTARIO PATRÍSTICO
    * **San Juan Crisóstome**, Homilía sobre el día de Navidad: PG 56, 392.
@@ -249,7 +249,7 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 ***
 
 
-#### 6. SANTA MARÍA, MADRE DE DIOS (1 DE ENERO) [:small_red_triangle:](#tabla-de-contenidos)
+#### 6. SANTA MARÍA, MADRE DE DIOS (1 DE ENERO) [índice](#tabla-de-contenidos)
 
 ##### 6.1 COMENTARIO PATRÍSTICO
    * **San Atanasio de Alejandría**, Carta a Epicteto, 5-9: PG 26, 1058. 1062-1066.
@@ -274,7 +274,7 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 ***
 
 
-#### 7. DOMINGO II DE NAVIDAD [:small_red_triangle:](#tabla-de-contenidos)
+#### 7. DOMINGO II DE NAVIDAD [índice](#tabla-de-contenidos)
 
 ##### 7.1 COMENTARIO PATRÍSTICO
    * **San León Magno**, Sermón 6, 2-3 en la Natividad del Señor: PL 54, 213-216.
@@ -294,7 +294,7 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 ***
 
 
-#### 8. EPIFANÍA DEL SEÑOR [:small_red_triangle:](#tabla-de-contenidos)
+#### 8. EPIFANÍA DEL SEÑOR [índice](#tabla-de-contenidos)
 
 ##### 8.1 COMENTARIO PATRÍSTICO
    * **San León Magno**, Sermón en la Epifanía del Señor 3, 1-3. 5: PL 54, 240-244.
@@ -318,7 +318,7 @@ Dado que para esta celebración no hay homilías de los papas, recogemos los sig
 ***
 
 
-#### 9. BAUTISMO DEL SEÑOR [:small_red_triangle:](#tabla-de-contenidos)
+#### 9. BAUTISMO DEL SEÑOR [índice](#tabla-de-contenidos)
 
 ##### 9.1 COMENTARIO PATRÍSTICO
    * **San Gregorio de Neocesarea**, Homilía 4 en la santa Teofanía: PG 10, 1182-1183.
