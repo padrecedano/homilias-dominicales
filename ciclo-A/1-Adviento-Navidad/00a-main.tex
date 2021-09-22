@@ -28,6 +28,8 @@
 \end{filecontents}
 
 \input{../../main-template}	
+\bibliography{../../homilias.bib}
+
 
 \begin{document}	
 	
@@ -39,11 +41,12 @@
 	\mainmatter
 	
 	\label{files}
-
-
-
+	\input{p01-chapter01-01adviento}
+	\input{p02-c06-SagradaFamilia}
+	%\nocite{CrisostomoPG056_0392}
+	\input{00c-notas}
 	
-	\iftrue
+	\iffalse
 	%\input{00c-notas}
 	%~
 	\input{00b-previo}
@@ -60,7 +63,7 @@
 	\input{p01-chapter03-03adviento}
 	\input{p01-chapter04-04adviento}
 	\input{p02-c01-NavidadIntro}	
-
+%Junto al Niño Jesús están María y José-Homilía sobre el día de Navidad: PG 56, 392
 	\input{p02-c02-NavidadVigilia}	
 	\input{p02-c03-NavidadMedianoche}
 	\input{p02-c04-NavidadAurora}
