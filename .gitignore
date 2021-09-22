@@ -1,6 +1,6 @@
 #ignore all kind of files
 *
-#except tex files
+#except .tex and .bib files
 !*.tex
 !*.bib
 # But descend into directories
@@ -9,6 +9,6 @@
 !/ciclo-A/
 !/ciclo-B/
 !/ciclo-C/
+!/CEC/
 !/figures/
 !/icc/
-
