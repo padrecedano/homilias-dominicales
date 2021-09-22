@@ -19,7 +19,12 @@
 % -------------------------------------------------------Packages
 \usepackage[no-math]{fontspec}
 \usepackage{polyglossia}
-
+\usepackage[hyperref,backref,backrefstyle=none,mincrossrefs=99,
+natbib=true,
+style=numeric,
+sorting=nyt]{biblatex}
+\DefaultInheritance{all=false}
+\ResetDataInheritance
 %\usepackage{ucs}
 \usepackage{lettrine}
 \usepackage{csquotes} 

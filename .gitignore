@@ -2,6 +2,7 @@
 *
 #except tex files
 !*.tex
+!*.bib
 # But descend into directories
 !*/
 # Recursively allow files under subtree
