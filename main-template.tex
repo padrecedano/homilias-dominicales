@@ -287,9 +287,15 @@ sorting=nyt]{biblatex}
 
 \newenvironment{readprose}
 {%
-	\begin{alltt}\small\linespread{.5}\notoserif}
-	{\end{alltt}
+	\notoserif
+	\small
+	\addtolength\leftskip{.5cm}%
+	\def\par{%
+		\ifvmode\everypar{\hspace*{-.5cm}\everypar{}}\endgraf\ifdim\lastskip=0pt\vskip\baselineskip\fi
+		\else\endgraf\fi}%
+	\obeylines
 }
+{\par}
 
 \makeatletter
 \catcode13\active %
