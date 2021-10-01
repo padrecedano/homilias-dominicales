@@ -94,6 +94,10 @@ sorting=nyt]{biblatex}
 %\newfontfamily\alterfont{EB Garamond}[Numbers=Lining]
 %\newfontfamily\headerfont{Libertinus Sans}
 %\newfontfamily\notoserif{Latin Modern Roman}
+
+
+
+
 \newfontfamily\notoserif{Noto Serif}		
 %\newfontfamily\notoserif{Tinos}		
 % -------------------------------------------------------Heading formats and styles
@@ -373,12 +377,20 @@ sorting=nyt]{biblatex}
 
 \newenvironment{patercite}{%
 	\vspace*{\fill}% 
-	\begin{mdframed} 
+
+	\begin{mdframed} [nobreak=true]
 		\hspace{\parindent}
 	}
 	{\end{mdframed}}{% 
 	\vspace*{\fill}%
 }
+
+\newenvironment{paterprose}
+{%
+	\begin{alltt}}
+	{\end{alltt}
+}
+
 
 \newenvironment{paterciteold}{%
 	% \begin{cr}{#1}
@@ -469,8 +481,10 @@ sorting=nyt]{biblatex}
 
 \newenvironment{cceprose}
 {%
-	\begin{alltt}\notoserif}
-	{\end{alltt}%
+	\begin{quote}
+		\begin{alltt}\notoserif} 
+		{\end{alltt}%
+	\end{quote}
 }
 
 \newcommand{\ccecite}[1]{
@@ -624,7 +638,7 @@ sorting=nyt]{biblatex}
 	\vspace*{\drop}
 	\endgroup}
 
-
+	%\input{multiinput}
 
 %\title{\Huge\textbf{ORTHODOX RULE OF PRAYER}}
 %\author{\Large\textbf{Father Thomas Moore, Michael Dykes}}

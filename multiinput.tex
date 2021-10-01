@@ -1,0 +1,49 @@
+\ExplSyntaxOn
+
+\NewDocumentCommand{\multiinput}{mmm+O{}}
+{% #1 = fixed part
+	% #2 = format for the variable part
+	% #3 = list
+	% #4 = post action
+	\cedano_multiinput:nnnn { #1 } { #2 } { #3 } { #4 }
+}
+
+\seq_new:N \l__cedano_multiinput_items_seq
+\seq_new:N \l__cedano_multiinput_interval_seq
+
+\cs_new_protected:Nn \cedano_multiinput:nnnn
+{
+	% split the list at commas
+	\seq_set_split:Nnn \l__cedano_multiinput_items_seq {,} { #3 }
+	\seq_map_inline:Nn \l__cedano_multiinput_items_seq
+	{
+		\__cedano_multiinput_item:nnnn { #1 } { #2 } { ##1 } { #4 }
+	}
+}
+
+\cs_new_protected:Nn \__cedano_multiinput_item:nnnn
+{
+	\seq_set_split:Nnn \l__cedano_multiinput_interval_seq { - } { #3 }
+	\int_compare:nTF { \seq_count:N \l__cedano_multiinput_interval_seq = 1 }
+	{% just one item
+		\__cedano_multiinput_file:nnnn { #1 } { #2 } { #3 } { #4 }
+	}
+	{% multiple files
+		\int_step_inline:nnn
+		{ \seq_item:Nn \l__cedano_multiinput_interval_seq { 1 } } % start
+		{ \seq_item:Nn \l__cedano_multiinput_interval_seq { 2 } } % end
+		{ \__cedano_multiinput_file:nnnn { #1 } { #2 } { ##1 } { #4 } }
+	}
+}
+
+\cs_new_protected:Nn \__cedano_multiinput_file:nnnn
+{
+	\file_input:n { #1 \__cedano_multiinput_pad:nn { #2 } { #3 } } #4
+}
+
+\cs_new:Nn \__cedano_multiinput_pad:nn
+{
+	\prg_replicate:nn { \tl_count:n { #1 } - \tl_count:n { #2 } } { 0 } #2
+}
+
+\ExplSyntaxOff
