@@ -347,6 +347,17 @@ sorting=nyt]{biblatex}
 	\begin{alltt}\tiny\notoserif\hspace*{2in}}
 	{\end{alltt}}
 
+%multi-line textquote: https://tex.stackexchange.com/q/617704/163311
+\DeclareQuoteStyle[spanish]{spanish}
+{\guillemotleft}
+% [\guillemotright] % <- This was the original definition
+[\hphantom{\guillemotright}]
+{\guillemotright}
+[0.025em]
+{\textquotedblleft}
+% [\textquotedblright] % <- This was the original definition
+[\hphantom{\textquotedblright}]
+{\textquotedblright}
 
 \label{paterstyles}
 %---------------------------------------------------------------------Pater styles
