@@ -28,35 +28,42 @@
 \end{filecontents}
 
 \input{../../main-template}	
-\input{../../multiinput}	
-\bibliography{../../homilias.bib}
-
+\input{000001-Bibliografia}	
 
 
 \begin{document}	
-	
-	
-	
-	
 	%\frontmatter
 	%\pagestyle{empty}
 	%\aliaspagestyle{chapter}{empty}
 
 	%\input{00b-previo}	
 	\mainmatter
-	
+
 	\label{files}
+
+
+
+%	\input{test}
+
+	\input{000002-Notas}
+%~
+%\input{000003-Previo}
+%\input{../../intro-general}	
+%\input{000004-IntroVolumen}	
+\input{010100-AdvientoIntro}
+%	\input{010101-Adviento01}	
+	%\input{010102-Adviento02}
 	
-	\iftrue
-	\input{00c-notas}
+	\iffalse
+	%\input{000100-Notas}
 	%~
-	%\input{00b-previo}
+	%\input{000200-Previo}
 	
 %	\input{test}
 	
 	%\input{../../intro-general}	
-	%\input{00d-intro-general-volumen}	
-	%\input{01a-part1-intro}
+	%\input{000300-IntroVolumen}	
+	%\input{010100-AdvientoIntro}
 	%\input{01a-part1-intro}		
 	%\input{01b-part1-chapter01}
 	%\input{010101-Adviento01}
@@ -64,7 +71,7 @@
 	%\input{010103-Adviento03}
 	%\input{010104-Adviento04}
 	
-	%\input{../../patres/PedroCrisologo_PL052_0588}
+
 	%\input{p02-c01-NavidadIntro}	
 	%\input{010201-NavidadVigilia}	
 	%\input{010202-NavidadMedianoche}
@@ -74,7 +81,7 @@
 	%\input{010206-MariaMadre}
 	%\input{010207-NavidadII}
 	%\input{010208-Epifania}
-	\input{010209-Bautismo}			
+	%\input{010209-Bautismo}			
 		
 	\fi 
 		\printbibliography
