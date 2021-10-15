@@ -27,7 +27,9 @@ sorting=nyt]{biblatex}
 %\usepackage{ucs}
 \usepackage{lettrine}
 \usepackage{csquotes} 
-\usepackage{xcolor}  
+\usepackage{xcolor} 
+
+
 %\usepackage[showframe, pass]{geometry}
 %\usepackage{layout}
 %\usepackage{gentium}
@@ -58,6 +60,10 @@ sorting=nyt]{biblatex}
 %\setstocksize{9in}{6in}
 %\settrimmedsize{\stockheight}{\dimexpr 6in-15mm}{*}
 %\settypeblocksize{516.9312pt}{243.6962pt}{*}
+
+%Remueve números de página en los inicios de parte y capítulo 
+\aliaspagestyle{part}{empty}
+\aliaspagestyle{chapter}{empty}
 \checkandfixthelayout
 
 %\fixpdflayout
@@ -197,9 +203,11 @@ sorting=nyt]{biblatex}
 }
 
 \newenvironment{introstyle}{%
-	\setsecheadstyle{\bfseries\large\centering}
-	\setsubsecheadstyle{\bfseries\scshape\centering}		
-	\setsubsubsecheadstyle{\itshape\raggedright}
+	\setsecheadstyle{\bfseries\scshape\large\centering}
+	\setsubsecheadstyle{\bfseries\centering}	
+	\setbeforesubsecskip{3.25ex plus1ex minus .2ex}
+	\setaftersubsecskip{0.5em}	
+	%\setsubsubsecheadstyle{\itshape\raggedright}
 	%\setparaheadstyle{\par\itshape\raggedright\par}	
 	%\addvspace{\topsep}% Space above
 	%\fontt
