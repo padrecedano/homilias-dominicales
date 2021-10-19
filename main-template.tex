@@ -503,13 +503,34 @@ sorting=nyt]{biblatex}
 }
 
 
-\newenvironment{cceprose}
+\newenvironment{cceproseold}
 {%
 	\begin{quote}
 		\begin{alltt}\notoserif} 
 		{\end{alltt}%
 	\end{quote}
 }
+
+\let\oldquote\quote \renewcommand\quote{\oldquote\samepage}
+
+\newenvironment{cceprose}
+{%
+	\notoserif
+	\footnotesize
+	%\addtolength\leftskip{.5cm}%
+	\def\par{%
+		\ifvmode\everypar{\hspace*{-.5cm}\everypar{}}\endgraf\ifdim\lastskip=0pt\vskip\baselineskip\fi
+		\else\endgraf\fi}%
+	\obeylines\nobreak\
+}
+{\par}
+
+
+
+\newenvironment{ccequote}
+{\list{}{\rightmargin\leftmargin}%
+	\item\relax}
+{\endlist}
 
 \newcommand{\ccecite}[1]{
 	{	
