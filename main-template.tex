@@ -163,6 +163,8 @@ sorting=nyt]{biblatex}
 %\abnormalparskip{1\baselineskip}
 
 %\needspace{15\baselineskip}
+
+\label{Comandos}
 %--------------------------------------------------------------------- Temporal
 \renewcommand{\afterpartskip}{\relax}
 \nopartblankpage
@@ -180,6 +182,8 @@ sorting=nyt]{biblatex}
 \newcommand{\newsection}{\newpage \vspace*{1cm}}
 \newcommand\redbf[1]{\txtred{\textbf{#1}}}
 
+%quote mantaner junto
+\let\oldquote\quote \renewcommand\quote{\oldquote\samepage}
 
 \label{introstyles}
 %---------------------------------------------------------------------Intro styles
@@ -379,6 +383,8 @@ sorting=nyt]{biblatex}
 	}
 }
 
+\label{framesetup}
+
 \mdfsetup{  %% used this to change the setup of the frame
 	%outermargin = 2cm, % 2cm left margin 
 	innerleftmargin = 1.5em,
@@ -408,6 +414,17 @@ sorting=nyt]{biblatex}
 	{\end{mdframed}}{% 
 	\vspace*{\fill}%
 }
+
+\newenvironment{liturgiabox}[1]{%
+	\vspace*{10pt}% 
+	
+	\begin{mdframed} [style=liturgia,frametitle={#1}]
+		\hspace{\parindent}
+	}
+	{\end{mdframed}}{% 
+	\vspace*{\fill}%
+}
+
 
 \newenvironment{paterprose}
 {%
@@ -503,46 +520,6 @@ sorting=nyt]{biblatex}
 }
 
 
-\newenvironment{cceproseold}
-{%
-	\begin{quote}
-		\begin{alltt}\notoserif} 
-		{\end{alltt}%
-	\end{quote}
-}
-
-\let\oldquote\quote \renewcommand\quote{\oldquote\samepage}
-
-\newenvironment{cceprose}
-{%
-	\notoserif
-	\footnotesize
-	%\addtolength\leftskip{.5cm}%
-	\def\par{%
-		\ifvmode\everypar{\hspace*{-.5cm}\everypar{}}\endgraf\ifdim\lastskip=0pt\vskip\baselineskip\fi
-		\else\endgraf\fi}%
-	\obeylines\nobreak\
-}
-{\par}
-
-
-
-\newenvironment{ccequote}
-{\list{}{\rightmargin\leftmargin}%
-	\item\relax}
-{\endlist}
-
-\newcommand{\ccecite}[1]{
-	{	
-		\par 
-		\notoserif
-		\scriptsize #1
-		\ignorespaces
-		\leftskip1cm\relax
-		\rightskip1cm\relax		
-		\par%
-	}
-}
 
 
 %--------------------------------------------------------------------- Test
@@ -578,6 +555,37 @@ sorting=nyt]{biblatex}
 
 
 \label{otherstyles}
+
+\newenvironment{liturgiatext}{%
+	\noindent\ignorespaces
+	\setlength{\parskip}{1ex plus 0.5ex minus 0.2ex}
+	\setlength\parindent{0pt}
+	\footnotesize
+	\notoserif		
+}%
+{% \end{cr}
+%\nopagebreak
+\par% Start a new paragraph
+\addvspace{\baselineskip}% Space below
+}
+
+\mdfdefinestyle{liturgia}{%
+	topline = true,	
+	bottomline = true,
+	innerleftmargin=10,
+	innerrightmargin=10,
+	frametitlerule=true,
+	frametitlerulecolor=gray,
+	skipabove=0pt,
+	skipbelow=0pt,
+	  innermargin=1pc,
+	outermargin=1pc,
+	%innertopmargin = 5pt,
+	%innerbottommargin = 5pt,
+	%frametitleaboveskip=50pt, 
+	%frametitlebelowskip=6pt, 
+	frametitlerule=true	
+}
 
 \newcommand{\src}[1]{
 	{	
@@ -641,24 +649,6 @@ sorting=nyt]{biblatex}
 
 \newlength\drop
 
-
-\iffalse
-\newcommand*{\titleTH}{%
-	\thispagestyle{empty}
-
-	\begingroup% TH Typography
-	\raggedleft
-	\vspace*{\baselineskip}
-	{\Large The Author}\\[0.167\textheight]
-	%{\bfseries The Big Book of}\\[\baselineskip]
-	{\textcolor{red}{\Huge \scshape \titleA}}\\[\baselineskip]
-	{\textcolor{red}{\huge \titleB}}\\[\baselineskip]	
-	{\bfseries \subTitle}\par
-	\vfill
-	{\Large The Publisher}\par
-	\vspace*{3\baselineskip}
-	\endgroup}
-\fi
 
 \newcommand*{\titleCC}
 {\begingroup% City of Cambridge
